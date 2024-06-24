@@ -31,10 +31,3 @@ Descripción del proceso de colaboración...
 Interpretación de los datos...
 
 ##Conclusiones y Recomendaciones
-
-Resumen de los hallazgos...
-
-##Referencias
-
-- Fuente 1
-- Fuente 2

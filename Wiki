@@ -1,0 +1,40 @@
+#Trabajo Grupal: Tablero de Indicadores Asociado al Plan Estratégico
+
+##Introducción
+
+Breve descripción de la empresa...
+
+##Metodología
+
+Descripción del proceso de colaboración...
+
+##Tablero de Indicadores
+
+###Indicadores de Eficiencia Operacional
+
+- **Tiempo de reparación (Horas/Avería)**
+  - Definición: Promedio de horas empleadas para reparar cada avería.
+  - Método de cálculo: (Horas Totales de Reparación / Número de Averías)
+  - Frecuencia de medición: Mensual
+  - Responsable: Jefe de Taller
+
+###Indicadores de Calidad
+
+- **Tasa de rechazos/retrabajos (Porcentaje)**
+  - Definición: Porcentaje de trabajos que requieren retrabajo o son rechazados.
+  - Método de cálculo: (Número de Trabajos Rechazados / Total de Trabajos) * 100
+  - Frecuencia de medición: Mensual
+  - Responsable: Jefe de Calidad
+
+##Análisis y Discusión
+
+Interpretación de los datos...
+
+##Conclusiones y Recomendaciones
+
+Resumen de los hallazgos...
+
+##Referencias
+
+- Fuente 1
+- Fuente 2
